@@ -4,8 +4,6 @@ site: sandpaper::sandpaper_site
 
 Six Steps to FAIR Implementation (with examples) ♻️
 
-**Keywords**: `Research Data Management`, `Research Data Reuse`, `FAIR`, `FAIR Digital Objects`.
-
 
 ![FAIR Research Data Logo](fig/FAIRcoursebook-image0.png){alt="FAIR Research Data Logo" width=800}
 
