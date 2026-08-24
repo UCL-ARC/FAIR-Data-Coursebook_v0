@@ -2,17 +2,22 @@
 title: "0. Introduction"
 teaching: 10
 exercises: 5
-questions:
-- "1 Does FAIR data mean open data?"
-- "2 What are Digital Objects and Persistent Identifiers?"
-- "3 Different types of PIDs"
-objectives:
-- "The participant will understand that the FAIR principles are fundamental for Sustainable Science."
-- "The participant will learn what human and machine-friendly digital objects are."
-keypoints:
-- "FAIR means human and machine-friendly data sources which aim for transparency in science and future reuse."
-- "DOI (Digital Object Identifier) is a type of PID (Persistent Identifier)"
 ---
+
+:::::::::::::::::::::: questions
+
+- Does FAIR data mean open data?
+- What are Digital Objects and Persistent Identifiers?
+- Different types of PIDs
+
+::::::::::::::::::::::
+
+::::::::::::::::::::::::: objectives
+
+- Understand that the FAIR principles are fundamental for Sustainable Science
+- Know what human and machine-friendly digital objects are
+
+:::::::::::::::::::::::::
 
 ### 1. Does FAIR data mean open data?
 
@@ -84,3 +89,10 @@ Authors will often link to platforms such as GitHub where they have shared their
 ## How does your discipline share data?
 
 Does your discipline have a data journal? Or some other mechanism to share data? For example, the American Astronomical Society (AAS), via the publisher IOP Physics, offers a [supplement series](http://iopscience.iop.org/journal/0067-0049/page/article-data) as a way for astronomers to publish data. 
+
+:::::::::::::::::::::::: keypoints
+
+- FAIR means human and machine-friendly data sources which aim for transparency in science and future reuse.
+- DOI (Digital Object Identifier) is a type of PID (Persistent Identifier)
+
+::::::::::::::::::::::::
