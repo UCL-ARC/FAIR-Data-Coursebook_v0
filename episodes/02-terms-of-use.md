@@ -2,19 +2,23 @@
 title: "1. Set up your own terms"
 teaching: 10
 exercises: 15
-questions:
-- "1 What are Data Terms of Use?"
-- "2 What must a Data Terms of Use statement contain?"
-- "3 What format should Data Terms of Use be?"
-- "4 Are there standard Licenses we can pick from?"
-objectives:
-- "The participant will understand what data terms of use are with examples."
-- "The participant will be able to create basic data terms of use."
-keypoints:
-- "The Data Terms of Use statement is the legal basis of the referred data source."
-- "A License is the bare minimum requirement for Data Terms of Use."
-- "If a standard License does not fit your project, then you can use Terms of Use layouts e.g. [Sample Data Usage Agreement](https://dataverse.org/best-practices/sample-dua)."
 ---
+
+::::::::::::::::::: questions
+
+- What are Data Terms of Use?
+- What must a Data Terms of Use statement contain?
+- What format should Data Terms of Use be?
+- Are there standard Licenses we can pick from?
+
+::::::::::::::::::::::::::
+
+::::::::::::::::::::::::: objectives
+
+- Understand what data terms of use are with examples
+- Create basic data terms of use
+
+:::::::::::::::::::::::::::
 
 ## FAIR principles used in Data Terms of Use:  
 **Accessible**   
@@ -156,3 +160,10 @@ You are a sociology and statistics researcher, and now you are collaborating wit
 
 Discuss with your team what considerations need to be taken into account when drafting a Data Terms of Use for this study. Do you think a legal expert must write the terms of use, or can it be done by the researchers?
 
+:::::::::::::::::::::: keypoints
+
+- The Data Terms of Use statement is the legal basis of the referred data source.
+- A License is the bare minimum requirement for Data Terms of Use.
+- If a standard License does not fit your project, then you can use Terms of Use layouts e.g. [Sample Data Usage Agreement](https://dataverse.org/best-practices/sample-dua).
+
+::::::::::::::::::::::::::::
