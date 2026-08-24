@@ -122,7 +122,7 @@ Dataverse also provides **Sample Data Usage Agreement** →  [LINK](https://data
 Yes, there are two general License frameworks that can work for data.  
 
 - [Creative Commons (CC)](https://creativecommons.org/about/cclicenses/)
-- - [Open Data Commons (ODC)](https://opendatacommons.org/licenses/index.html)  
+- [Open Data Commons (ODC)](https://opendatacommons.org/licenses/index.html)  
 
 [Creative Commons (CC)](https://creativecommons.org/about/cclicenses/) provides several licenses that can be used with a wide variety of creations that might otherwise fall under copyright restrictions, including music, art, books, and photographs. Although not tailored for data, CC licenses can be used as data licenses because they are easy to understand. Its website includes a summary page [HERE](https://creativecommons.org/about/cclicenses/) outlining all the available licenses, explained with simple visual symbols.
 
@@ -141,7 +141,8 @@ Yes, there are two general License frameworks that can work for data.
 
 Pick a License at [creativecommons.org](https://creativecommons.org/share-your-work/) with the following conditions:  
 - Others cannot make changes to the work since it's simulation data
-- If someone wants to use the simulation data for a startup, they can 
+- If someone wants to use the simulation data for a startup, they can
+
 **Question:** What type of license is it?
 
 ## Solution
