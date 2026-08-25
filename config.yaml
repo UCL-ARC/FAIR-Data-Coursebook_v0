@@ -24,13 +24,13 @@ life_cycle: 'stable'
 license: 'CC-BY 4.0'
 
 # Link to the source repository for this lesson
-source: 'https://github.com/carpentries-incubator/FAIR-research-data-coursebook/'
+source: 'https://github.com/UCL-ARC/FAIR-Data-Coursebook'
 
 # Default branch of your lesson
 branch: 'main'
 
 # Who to contact if there are any issues
-contact: 'p.hernandezserrano@maastrichtuniversity.nl'
+contact: 'arc.teaching@ucl.ac.uk'
 
 # Navigation ------------------------------------------------
 #
