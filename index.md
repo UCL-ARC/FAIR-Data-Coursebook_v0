@@ -25,7 +25,7 @@ Some relevant topics the coursebook aims to address are the following:
 
 ##Six steps to FAIR
 
-1. 📜 Set up your own terms ➡️ [Data Terms of Use](02-terms-of-use/index.html)
+1. 📜 Set up your own terms ➡️ [Data Terms of Use](https://github-pages.arc.ucl.ac.uk/FAIR-Data-Coursebook/02-terms-of-use/index.html)
 2. 🌍 Speak the same language ➡️ [Data Descriptions](03-data-descriptions/index.html)
 3. 🔒 Securely share ➡️ [Data Access Protocols](04-access-protocols/index.html)
 4. 📦 Publish and preserve ➡️ [Data Archiving](05-data-archiving/index.html)
