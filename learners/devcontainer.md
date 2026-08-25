@@ -177,7 +177,7 @@ The full list of Docker images and their version _tags_ are [on Dockerhub](https
 
 ### Not used the Workbench before?
 
-Please follow the [Building your first Workbench lesson](episodes/01-first-lesson.md) to familiarise yourself with the lesson build process.
+Please follow the [Building your first Workbench lesson] to familiarise yourself with the lesson build process.
 
 ### What content can go in a lesson?
 
