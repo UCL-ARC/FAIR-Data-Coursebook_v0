@@ -5,7 +5,7 @@ site: sandpaper::sandpaper_site
 Six Steps to FAIR Implementation (with examples) ♻️
 
 
-![FAIR Research Data Logo](fig/FAIRcoursebook-image0_0.png){alt="FAIR Research Data Logo" width=800}
+![FAIR Research Data Logo](fig/FAIRcoursebook-image0_0.png){alt="FAIR Research Data Logo"}
 
 📢 **This coursebook was last updated in August 2026.**
 
