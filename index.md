@@ -5,7 +5,7 @@ site: sandpaper::sandpaper_site
 Six Steps to FAIR Implementation (with examples) ♻️
 
 
-![FAIR Research Data Logo](fig/FAIRcoursebook-image0.png){alt="FAIR Research Data Logo" width=800}
+![FAIR Research Data Logo](https://github.com/UCL-ARC/FAIR-Data-Coursebook/edit/main/fig/FAIRcoursebook-image0.png){alt="FAIR Research Data Logo" width=800}
 
 📢 **This coursebook was last updated in August 2026.**
 
@@ -26,11 +26,11 @@ Some relevant topics the coursebook aims to address are the following:
 ##Six steps to FAIR
 
 1. 📜 Set up your own terms ➡️ [Data Terms of Use](https://github-pages.arc.ucl.ac.uk/FAIR-Data-Coursebook/02-terms-of-use/index.html)
-2. 🌍 Speak the same language ➡️ [Data Descriptions](03-data-descriptions/index.html)
-3. 🔒 Securely share ➡️ [Data Access Protocols](04-access-protocols/index.html)
-4. 📦 Publish and preserve ➡️ [Data Archiving](05-data-archiving/index.html)
-5. 🤖 Make machines work for you ➡️ [Rich Metadata](06-rich-metadata/index.html)
-6. ♻️ Responsibly reuse ➡️ [Data Reusing](07-data-reusing/index.html)
+2. 🌍 Speak the same language ➡️ [Data Descriptions](https://github-pages.arc.ucl.ac.uk/FAIR-Data-Coursebook/index.html)
+3. 🔒 Securely share ➡️ [Data Access Protocols](https://github-pages.arc.ucl.ac.uk/FAIR-Data-Coursebook/04-access-protocols/index.html)
+4. 📦 Publish and preserve ➡️ [Data Archiving](https://github-pages.arc.ucl.ac.uk/FAIR-Data-Coursebook/05-data-archiving/index.html)
+5. 🤖 Make machines work for you ➡️ [Rich Metadata](https://github-pages.arc.ucl.ac.uk/FAIR-Data-Coursebook/06-rich-metadata/index.html)
+6. ♻️ Responsibly reuse ➡️ [Data Reusing](https://github-pages.arc.ucl.ac.uk/FAIR-Data-Coursebook/07-data-reusing/index.html)
 
 ----
 
