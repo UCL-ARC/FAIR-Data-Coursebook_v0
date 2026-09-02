@@ -57,9 +57,7 @@ A **Persistent Identifier (PID)** is a long-lasting reference to a (digital or p
 - Requires technical, governance, and community support to provide the persistence
 - There are many different PIDs available for many different types of scholarly resources, e.g., articles, data, samples, authors, grants, projects, conference papers, and so much more
 
-<p align="center"><iframe width="900" height="600" src="https://en.wikipedia.org/wiki/File:FREYA-The-power-of-PIDs-V05-1.webm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
-
-*Video: The FREYA project explains the significance of PID: [LINK TO SOURCE](https://en.wikipedia.org/wiki/File:FREYA-The-power-of-PIDs-V05-1.webm)*
+*Video: The FREYA project explains the significance of PID: [LINK](https://en.wikipedia.org/wiki/File:FREYA-The-power-of-PIDs-V05-1.webm)*
 
 ### Different types of PIDs
 
