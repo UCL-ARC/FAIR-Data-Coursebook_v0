@@ -2,11 +2,11 @@
 site: sandpaper::sandpaper_site
 ---
 
-Six Steps to FAIR Implementation (with examples) ♻️
+Six Steps to FAIR Implementation (with examples)
 
-📢 **This coursebook was last updated in August 2026.**
+**This coursebook was last updated in August 2026.**
 
-## About 📗
+## About
 
 Usually, training materials on FAIR principles are tedious and contain extensive theory. In this Library Carpentries-based coursebook, we aim to teach the implementation of FAIR principles differently. It has low entry-level materials and examples that the average researcher can understand and immediately apply.
 
@@ -18,20 +18,20 @@ Some relevant topics the coursebook aims to address are the following:
 - You will review the differences and similarities of “Data Descriptions” in different science fields to discuss what we can do (as a scientific community) to standardize these practices.
 - You will learn what “Rich Metadata” technically means on the Semantic Web and its relation to sustainable research output for future researchers.    
 
-💡 **Following a bolder approach, we want to teach the implementation of FAIR principles differently. There is less focus on the theory and more emphasis on examples. Guided by 6 steps in Research Data Management**
+**Following a bolder approach, we want to teach the implementation of FAIR principles differently. There is less focus on the theory and more emphasis on examples. Guided by 6 steps in Research Data Management**
 
 ##Six steps to FAIR
 
-1. 📜 Set up your own terms ➡️ [Data Terms of Use](https://github-pages.arc.ucl.ac.uk/FAIR-Data-Coursebook/02-terms-of-use/index.html)
-2. 🌍 Speak the same language ➡️ [Data Descriptions](https://github-pages.arc.ucl.ac.uk/FAIR-Data-Coursebook/index.html)
-3. 🔒 Securely share ➡️ [Data Access Protocols](https://github-pages.arc.ucl.ac.uk/FAIR-Data-Coursebook/04-access-protocols/index.html)
-4. 📦 Publish and preserve ➡️ [Data Archiving](https://github-pages.arc.ucl.ac.uk/FAIR-Data-Coursebook/05-data-archiving/index.html)
-5. 🤖 Make machines work for you ➡️ [Rich Metadata](https://github-pages.arc.ucl.ac.uk/FAIR-Data-Coursebook/06-rich-metadata/index.html)
-6. ♻️ Responsibly reuse ➡️ [Data Reusing](https://github-pages.arc.ucl.ac.uk/FAIR-Data-Coursebook/07-data-reusing/index.html)
+1. Set up your own terms  [Data Terms of Use](https://github-pages.arc.ucl.ac.uk/FAIR-Data-Coursebook/02-terms-of-use/index.html)
+2. Speak the same language  [Data Descriptions](https://github-pages.arc.ucl.ac.uk/FAIR-Data-Coursebook/index.html)
+3. Securely share  [Data Access Protocols](https://github-pages.arc.ucl.ac.uk/FAIR-Data-Coursebook/04-access-protocols/index.html)
+4. Publish and preserve  [Data Archiving](https://github-pages.arc.ucl.ac.uk/FAIR-Data-Coursebook/05-data-archiving/index.html)
+5. Make machines work for you  [Rich Metadata](https://github-pages.arc.ucl.ac.uk/FAIR-Data-Coursebook/06-rich-metadata/index.html)
+6. Responsibly reuse  [Data Reusing](https://github-pages.arc.ucl.ac.uk/FAIR-Data-Coursebook/07-data-reusing/index.html)
 
 ----
 
-## Acknowledgements 🙏
+## Acknowledgements
 
 These efforts are realized with the support from the [SURF funding for strengthening the RDM landscape on Digital Competence Center](https://www.dtls.nl/2022/01/24/surf-honors-10-proposals-in-call-for-proposals-digital-competence-centers-to-work-on-strengthening-the-rdm-landscape/) and the backing of [Maastricht University Library](https://library.maastrichtuniversity.nl/research/rdm/).
 
