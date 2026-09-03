@@ -65,7 +65,7 @@ PIDs have community support, organizational commitment, and technical infrastruc
 
 In [Episode 6 (Data Archiving)](https://github-pages.arc.ucl.ac.uk/FAIR-Data-Coursebook/05-data-archiving/index.html), you will explore one type of PID, the DOI (Digital Object Identifier), which is usually the standard PID for Datasets and Publications.
 
-## Exercise - Level Easy 🌶
+## Exercise - Level Easy
 1. arXiv is a preprint repository for physics, math, computer science, and related disciplines. 
 2. It allows researchers to share and access their work before it is formally published. 
 3. Visit the arXiv new papers page for [Machine Learning](https://arxiv.org/list/cs.LG/recent). 
