@@ -87,7 +87,7 @@ The "Data Terms of Use" can be drafted using any application (e.g., MS Word). Ho
 
 Any text editor software would do the trick, such as [Notepad++](https://notepad-plus-plus.org/) or [Sublime Text](https://www.sublimetext.com/), but also you can write it using Microsoft Word or Google Docs and save it as `.txt` 
 
-## Exercise - Level Medium 🌶🌶
+## Exercise - Level Medium
 
 1. Visit the landing page of the following terms of use [github.com/CityOfPhiladelphia/terms-of-use/blob/master/LICENSE.md](https://github.com/CityOfPhiladelphia/terms-of-use/blob/master/LICENSE.md)   
 2. Can you tell what type of data it is about?   
@@ -142,7 +142,7 @@ Yes, there are two general License frameworks that can work for data.
 
 ---
 
-## Exercise - Level Easy 🌶
+## Exercise - Level Easy
 
 Pick a License at [creativecommons.org](https://creativecommons.org/share-your-work/) with the following conditions:  
 - Others cannot make changes to the work since it's simulation data
